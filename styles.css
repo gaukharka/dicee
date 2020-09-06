@@ -1,0 +1,46 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #40bad5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Playfair Display", cursive;
+  font-size: 8rem;
+  color: #120136;
+}
+
+h3 {
+  margin: 50px;
+  font-family: "Playfair Display", cursive;
+  color: #120136;
+}
+
+p {
+  font-size: 2rem;
+  padding: 4rem;
+  color: #120136;
+  font-family: "Playfair Display", cursive;
+}
+
+img {
+  width: 80% auto;
+  height: 150px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #120136;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
